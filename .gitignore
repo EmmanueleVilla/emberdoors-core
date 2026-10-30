@@ -1,0 +1,20 @@
+# Gradle & Build
+.gradle/
+build/
+**/build/
+!src/**/build/
+
+# IDE & Editor
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Local configuration
+local.properties
+.kotlin/
